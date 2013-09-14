@@ -1,0 +1,134 @@
+2013-08-12 12:51:36.063 INFO  [] JobSyncScheduler Scheduler started with frequency : 120 secs
+2013-08-12 12:51:36.469 INFO  [] View Account [name=pramati, domain=pramati.com, appName=Meeting Room Reservation, accountId=657171185474-52hf8eodfteioh068kh3grn2h6njth4s@developer.gserviceaccount.com, accountUser=jitendra.b@pramati.com, toBeUpdated=null]
+2013-08-12 12:51:36.469 INFO  [] View Resource [id=Shibuya-Hyd-3rd_Floor-Meeting-4-WB, name=Shibuya, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500038, type=Meeting, calendarId=pramati.com_536869627579612d4879642d3372645f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:37.436 INFO  [] View Total Events : 0
+2013-08-12 12:51:37.436 INFO  [] View Resource [id=Connaught_Place-Hyd-4th_Floor-Meeting-6-WB, name=Connaught Place, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500045, type=Meeting, calendarId=pramati.com_436f6e6e61756768745f506c6163652d4879642d3474685f466c6f6f722d4d656574696e672d362d5742@resource.calendar.google.com]
+2013-08-12 12:51:37.776 INFO  [] View Total Events : 0
+2013-08-12 12:51:37.777 INFO  [] View Resource [id=Grand_Central-Hyd-3rd_Floor-Meeting-4-WB, name=Grand Central, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500039, type=Meeting, calendarId=pramati.com_4772616e645f43656e7472616c2d4879642d3372645f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:38.329 INFO  [] View Total Events : 0
+2013-08-12 12:51:38.329 INFO  [] View Resource [id=Kings_Cross-Hyd-3rd_Floor-Meeting-4-WB, name=Kings Cross, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500037, type=Meeting, calendarId=pramati.com_4b696e67735f43726f73732d4879642d3372645f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:38.692 INFO  [] View Total Events : 0
+2013-08-12 12:51:38.692 INFO  [] View Resource [id=Wall_Street-Hyd-5th_Floor-Meeting-4-WB, name=Wall Street, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500047, type=Meeting, calendarId=pramati.com_57616c6c5f5374726565742d4879642d3574685f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:39.252 INFO  [] View Total Events : 0
+2013-08-12 12:51:39.253 INFO  [] View Resource [id=Narita-Hyd-2nd_Floor-Meeting-4-WB, name=Narita, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500036, type=Meeting, calendarId=pramati.com_4e61726974612d4879642d326e645f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:39.798 INFO  [] View Total Events : 0
+2013-08-12 12:51:39.799 INFO  [] View Resource [id=Canary_Wharf-Hyd-5th_Floor-Meeting-12-WB, name=Canary Wharf, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500049, type=Meeting, calendarId=pramati.com_43616e6172795f57686172662d4879642d3574685f466c6f6f722d4d656574696e672d31322d5742@resource.calendar.google.com]
+2013-08-12 12:51:40.149 INFO  [] View Total Events : 0
+2013-08-12 12:51:40.150 INFO  [] View Resource [id=Gare_du_Nord-Hyd-3rd_Floor-Meeting-12-WB, name=Gare du Nord, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500041, type=Meeting, calendarId=pramati.com_476172655f64755f4e6f72642d4879642d3372645f466c6f6f722d4d656574696e672d31322d5742@resource.calendar.google.com]
+2013-08-12 12:51:40.528 INFO  [] View Total Events : 0
+2013-08-12 12:51:40.529 INFO  [] View Resource [id=Penn_Station-Hyd-3rd_Floor-Training-20-WB, name=Penn Station, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500055, type=Training, calendarId=pramati.com_50656e6e5f53746174696f6e2d4879642d3372645f466c6f6f722d547261696e696e672d32302d5742@resource.calendar.google.com]
+2013-08-12 12:51:41.075 INFO  [] View Total Events : 0
+2013-08-12 12:51:41.076 INFO  [] View Resource [id=Times_Square-Hyd-4th_Floor-Meeting-12-WB, name=Times Square, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500046, type=Meeting, calendarId=pramati.com_54696d65735f5371756172652d4879642d3474685f466c6f6f722d4d656574696e672d31322d5742@resource.calendar.google.com]
+2013-08-12 12:51:41.407 INFO  [] View Total Events : 0
+2013-08-12 12:51:41.407 INFO  [] View Resource [id=Schipol-Hyd-2nd_Floor-Meeting-7-WB, name=Schipol, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500036, type=Meeting, calendarId=pramati.com_53636869706f6c2d4879642d326e645f466c6f6f722d4d656574696e672d372d5742@resource.calendar.google.com]
+2013-08-12 12:51:41.951 INFO  [] View Total Events : 0
+2013-08-12 12:51:41.952 INFO  [] View Resource [id=Silicon_Valley-Hyd-5th_Floor-Meeting-4-WB, name=Silicon Valley, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500048, type=Meeting, calendarId=pramati.com_53696c69636f6e5f56616c6c65792d4879642d3574685f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:42.492 INFO  [] View Total Events : 0
+2013-08-12 12:51:42.493 INFO  [] View Resource [id=Shinjuka-Hyd-2nd_Floor-Meeting-4-WB, name=Shinjuka, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500035, type=Meeting, calendarId=pramati.com_5368696e6a756b612d4879642d326e645f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:42.851 INFO  [] View Total Events : 0
+2013-08-12 12:51:42.851 INFO  [] View Resource [id=Nariman_Point-Hyd-5th_Floor-Meeting-6-WB, name=Nariman Point, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500051, type=Meeting, calendarId=pramati.com_4e6172696d616e5f506f696e742d4879642d3574685f466c6f6f722d4d656574696e672d362d5742@resource.calendar.google.com]
+2013-08-12 12:51:43.404 INFO  [] View Total Events : 0
+2013-08-12 12:51:43.405 INFO  [] View Resource [id=Union_Station-Hyd-3rd_Floor-Meeting-6-WB, name=Union Station, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500040, type=Meeting, calendarId=pramati.com_556e696f6e5f53746174696f6e2d4879642d3372645f466c6f6f722d4d656574696e672d362d5742@resource.calendar.google.com]
+2013-08-12 12:51:43.755 INFO  [] View Total Events : 0
+2013-08-12 12:51:43.756 INFO  [] View Resource [id=Ghirardelli_Square-Hyd-5th_Floor-Meeting-8-WB, name=Ghirardelli Square, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500052, type=Meeting, calendarId=pramati.com_47686972617264656c6c695f5371756172652d4879642d3574685f466c6f6f722d4d656574696e672d382d5742@resource.calendar.google.com]
+2013-08-12 12:51:44.210 INFO  [] View Total Events : 0
+2013-08-12 12:51:44.211 INFO  [] View Resource [id=Bond_Street-Hyd-5th_Floor-Meeting-4-WB, name=Bond Street, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500050, type=Meeting, calendarId=pramati.com_426f6e645f5374726565742d4879642d3574685f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:44.559 INFO  [] View Total Events : 0
+2013-08-12 12:51:44.560 INFO  [] View Resource [id=OHare-Hyd-2nd_Floor-Meeting-12-LCD-WB, name=O'Hare, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500035, type=Meeting, calendarId=pramati.com_4f486172652d4879642d326e645f466c6f6f722d4d656574696e672d31322d4c43442d5742@resource.calendar.google.com]
+2013-08-12 12:51:44.905 INFO  [] View Total Events : 0
+2013-08-12 12:51:44.905 INFO  [] View Resource [id=Lexington_Avenue-Hyd-4th_Floor-Training-16-WB, name=Lexington Avenue, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500054, type=Training, calendarId=pramati.com_4c6578696e67746f6e5f4176656e75652d4879642d3474685f466c6f6f722d547261696e696e672d31362d5742@resource.calendar.google.com]
+2013-08-12 12:51:45.448 INFO  [] View Total Events : 0
+2013-08-12 12:51:45.449 INFO  [] View Resource [id=Charing_Cross-Hyd-5th_Floor-Training-16-WB, name=Charing Cross, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500053, type=Training, calendarId=pramati.com_43686172696e675f43726f73732d4879642d3574685f466c6f6f722d547261696e696e672d31362d5742@resource.calendar.google.com]
+2013-08-12 12:51:46.012 INFO  [] View Total Events : 0
+2013-08-12 12:51:46.013 INFO  [] View Resource [id=Broadway-Hyd-2nd_Floor-Meeting-4-WB, name=Broadway, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500034, type=Meeting, calendarId=pramati.com_42726f61647761792d4879642d326e645f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:46.363 INFO  [] View Total Events : 0
+2013-08-12 12:51:46.364 INFO  [] View Resource [id=Trafalgar_Square-Hyd-4th_Floor-Meeting-4-WB, name=Trafalgar Square, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500044, type=Meeting, calendarId=pramati.com_54726166616c6761725f5371756172652d4879642d3474685f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:46.723 INFO  [] View Total Events : 0
+2013-08-12 12:51:46.723 INFO  [] View Resource [id=Piazza_Navona-Hyd-4th_Floor-Meeting-4-WB, name=Piazza Navona, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500042, type=Meeting, calendarId=pramati.com_5069617a7a615f4e61766f6e612d4879642d3474685f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:47.069 INFO  [] View Total Events : 0
+2013-08-12 12:51:47.070 INFO  [] View Resource [id=Piccadilly_Circus-Hyd-4th_Floor-Meeting-4-WB, name=Piccadilly Circus, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500043, type=Meeting, calendarId=pramati.com_506963636164696c6c795f4369726375732d4879642d3474685f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:47.404 INFO  [] View Total Events : 0
+2013-08-12 12:51:47.405 INFO  [] View ############################################[[pramati, imaginea]---[imaginea]]##################################################
+2013-08-12 12:51:47.406 INFO  [] View Account [name=imaginea, domain=imaginea.com, appName=Meeting Room Reservation, accountId=841857880762@developer.gserviceaccount.com, accountUser=venu@imaginea.com, toBeUpdated=null]
+2013-08-12 12:51:47.407 INFO  [] View Resource [id=Shibuya-Hyd-3rd_Floor-Meeting-4-WB, name=Shibuya, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500038, type=Meeting, calendarId=imaginea.com_536869627579612d4879642d3372645f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:47.992 INFO  [] View Total Events : 0
+2013-08-12 12:51:47.993 INFO  [] View Resource [id=Connaught_Place-Hyd-4th_Floor-Meeting-6-WB, name=Connaught Place, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500045, type=Meeting, calendarId=imaginea.com_436f6e6e61756768745f506c6163652d4879642d3474685f466c6f6f722d4d656574696e672d362d5742@resource.calendar.google.com]
+2013-08-12 12:51:48.549 INFO  [] View Total Events : 0
+2013-08-12 12:51:48.549 INFO  [] View Resource [id=Grand_Central-Hyd-3rd_Floor-Meeting-4-WB, name=Grand Central, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500039, type=Meeting, calendarId=imaginea.com_4772616e645f43656e7472616c2d4879642d3372645f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:48.897 INFO  [] View Total Events : 0
+2013-08-12 12:51:48.898 INFO  [] View Resource [id=Kings_Cross-Hyd-3rd_Floor-Meeting-4-WB, name=Kings Cross, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500037, type=Meeting, calendarId=imaginea.com_4b696e67735f43726f73732d4879642d3372645f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:49.430 INFO  [] View Total Events : 0
+2013-08-12 12:51:49.431 INFO  [] View Resource [id=Wall_Street-Hyd-5th_Floor-Meeting-4-WB, name=Wall Street, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500047, type=Meeting, calendarId=imaginea.com_57616c6c5f5374726565742d4879642d3574685f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:49.785 INFO  [] View Total Events : 0
+2013-08-12 12:51:49.786 INFO  [] View Resource [id=Narita-Hyd-2nd_Floor-Meeting-4-WB, name=Narita, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500036, type=Meeting, calendarId=imaginea.com_4e61726974612d4879642d326e645f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:50.126 INFO  [] View Total Events : 0
+2013-08-12 12:51:50.126 INFO  [] View Resource [id=Canary_Wharf-Hyd-5th_Floor-Meeting-12-WB, name=Canary Wharf, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500049, type=Meeting, calendarId=imaginea.com_43616e6172795f57686172662d4879642d3574685f466c6f6f722d4d656574696e672d31322d5742@resource.calendar.google.com]
+2013-08-12 12:51:50.461 INFO  [] View Total Events : 0
+2013-08-12 12:51:50.462 INFO  [] View Resource [id=Gare_du_Nord-Hyd-3rd_Floor-Meeting-12-WB, name=Gare du Nord, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500041, type=Meeting, calendarId=imaginea.com_476172655f64755f4e6f72642d4879642d3372645f466c6f6f722d4d656574696e672d31322d5742@resource.calendar.google.com]
+2013-08-12 12:51:50.809 INFO  [] View Total Events : 0
+2013-08-12 12:51:50.810 INFO  [] View Resource [id=Penn_Station-Hyd-3rd_Floor-Training-20-WB, name=Penn Station, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500055, type=Training, calendarId=imaginea.com_50656e6e5f53746174696f6e2d4879642d3372645f466c6f6f722d547261696e696e672d32302d5742@resource.calendar.google.com]
+2013-08-12 12:51:51.154 INFO  [] View Total Events : 0
+2013-08-12 12:51:51.155 INFO  [] View Resource [id=Times_Square-Hyd-4th_Floor-Meeting-12-WB, name=Times Square, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500046, type=Meeting, calendarId=imaginea.com_54696d65735f5371756172652d4879642d3474685f466c6f6f722d4d656574696e672d31322d5742@resource.calendar.google.com]
+2013-08-12 12:51:51.578 INFO  [] View Total Events : 0
+2013-08-12 12:51:51.578 INFO  [] View Resource [id=Schipol-Hyd-2nd_Floor-Meeting-7-WB, name=Schipol, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500036, type=Meeting, calendarId=imaginea.com_53636869706f6c2d4879642d326e645f466c6f6f722d4d656574696e672d372d5742@resource.calendar.google.com]
+2013-08-12 12:51:52.110 INFO  [] View Total Events : 0
+2013-08-12 12:51:52.111 INFO  [] View Resource [id=Silicon_Valley-Hyd-5th_Floor-Meeting-4-WB, name=Silicon Valley, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500048, type=Meeting, calendarId=imaginea.com_53696c69636f6e5f56616c6c65792d4879642d3574685f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:52.449 INFO  [] View Total Events : 0
+2013-08-12 12:51:52.449 INFO  [] View Resource [id=Shinjuka-Hyd-2nd_Floor-Meeting-4-WB, name=Shinjuka, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500035, type=Meeting, calendarId=imaginea.com_5368696e6a756b612d4879642d326e645f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:52.990 INFO  [] View Total Events : 0
+2013-08-12 12:51:52.991 INFO  [] View Resource [id=Nariman_Point-Hyd-5th_Floor-Meeting-6-WB, name=Nariman Point, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500051, type=Meeting, calendarId=imaginea.com_4e6172696d616e5f506f696e742d4879642d3574685f466c6f6f722d4d656574696e672d362d5742@resource.calendar.google.com]
+2013-08-12 12:51:53.346 INFO  [] View Total Events : 0
+2013-08-12 12:51:53.348 INFO  [] View Resource [id=Union_Station-Hyd-3rd_Floor-Meeting-6-WB, name=Union Station, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500040, type=Meeting, calendarId=imaginea.com_556e696f6e5f53746174696f6e2d4879642d3372645f466c6f6f722d4d656574696e672d362d5742@resource.calendar.google.com]
+2013-08-12 12:51:53.912 INFO  [] View Total Events : 0
+2013-08-12 12:51:53.913 INFO  [] View Resource [id=Ghirardelli_Square-Hyd-5th_Floor-Meeting-8-WB, name=Ghirardelli Square, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500052, type=Meeting, calendarId=imaginea.com_47686972617264656c6c695f5371756172652d4879642d3574685f466c6f6f722d4d656574696e672d382d5742@resource.calendar.google.com]
+2013-08-12 12:51:54.269 INFO  [] View Total Events : 0
+2013-08-12 12:51:54.270 INFO  [] View Resource [id=Bond_Street-Hyd-5th_Floor-Meeting-4-WB, name=Bond Street, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500050, type=Meeting, calendarId=imaginea.com_426f6e645f5374726565742d4879642d3574685f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:54.631 INFO  [] View Total Events : 0
+2013-08-12 12:51:54.632 INFO  [] View Resource [id=OHare-Hyd-2nd_Floor-Meeting-12-LCD-WB, name=O'Hare, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500035, type=Meeting, calendarId=imaginea.com_4f486172652d4879642d326e645f466c6f6f722d4d656574696e672d31322d4c43442d5742@resource.calendar.google.com]
+2013-08-12 12:51:55.183 INFO  [] View Total Events : 1
+2013-08-12 12:51:55.183 INFO  [] View -----------------------------------------------
+2013-08-12 12:51:55.184 INFO  [] View -----------------------------------------------
+2013-08-12 12:51:55.184 INFO  [] View ID: bs27t85evodclgq581h232snno_20130809T043000Z
+2013-08-12 12:51:55.184 INFO  [] View Description: null
+2013-08-12 12:51:55.184 INFO  [] View Summary: null
+2013-08-12 12:51:55.184 INFO  [] View CalUID: null
+2013-08-12 12:51:55.184 INFO  [] View Location: null
+2013-08-12 12:51:55.184 INFO  [] View Status: cancelled
+2013-08-12 12:51:55.184 INFO  [] View Attendees: null
+2013-08-12 12:51:55.185 INFO  [] View Creator: null
+2013-08-12 12:51:55.185 INFO  [] View Created On: null
+2013-08-12 12:51:55.185 INFO  [] View Organizer: null
+2013-08-12 12:51:55.185 INFO  [] View Recurrence: null
+2013-08-12 12:51:55.185 INFO  [] View Start Time: null
+2013-08-12 12:51:55.185 INFO  [] View End Time: null
+2013-08-12 12:51:55.185 INFO  [] View Resource [id=Lexington_Avenue-Hyd-4th_Floor-Training-16-WB, name=Lexington Avenue, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500054, type=Training, calendarId=imaginea.com_4c6578696e67746f6e5f4176656e75652d4879642d3474685f466c6f6f722d547261696e696e672d31362d5742@resource.calendar.google.com]
+2013-08-12 12:51:55.527 INFO  [] View Total Events : 0
+2013-08-12 12:51:55.528 INFO  [] View Resource [id=Charing_Cross-Hyd-5th_Floor-Training-16-WB, name=Charing Cross, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500053, type=Training, calendarId=imaginea.com_43686172696e675f43726f73732d4879642d3574685f466c6f6f722d547261696e696e672d31362d5742@resource.calendar.google.com]
+2013-08-12 12:51:55.867 INFO  [] View Total Events : 0
+2013-08-12 12:51:55.868 INFO  [] View Resource [id=Broadway-Hyd-2nd_Floor-Meeting-4-WB, name=Broadway, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500034, type=Meeting, calendarId=imaginea.com_42726f61647761792d4879642d326e645f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:56.492 INFO  [] View Total Events : 0
+2013-08-12 12:51:56.492 INFO  [] View Resource [id=Trafalgar_Square-Hyd-4th_Floor-Meeting-4-WB, name=Trafalgar Square, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500044, type=Meeting, calendarId=imaginea.com_54726166616c6761725f5371756172652d4879642d3474685f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:57.067 INFO  [] View Total Events : 0
+2013-08-12 12:51:57.067 INFO  [] View Resource [id=Piazza_Navona-Hyd-4th_Floor-Meeting-4-WB, name=Piazza Navona, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500042, type=Meeting, calendarId=imaginea.com_5069617a7a615f4e61766f6e612d4879642d3474685f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:57.466 INFO  [] View Total Events : 0
+2013-08-12 12:51:57.467 INFO  [] View Resource [id=Piccadilly_Circus-Hyd-4th_Floor-Meeting-4-WB, name=Piccadilly Circus, description=MidTown 6-3-348, Road No. 1, Banjara Hills, Hyderabad, AP, India, 500043, type=Meeting, calendarId=imaginea.com_506963636164696c6c795f4369726375732d4879642d3474685f466c6f6f722d4d656574696e672d342d5742@resource.calendar.google.com]
+2013-08-12 12:51:58.031 INFO  [] View Total Events : 0
+2013-08-12 12:51:58.032 INFO  [] View ############################################[[pramati, imaginea]---[pramati]]##################################################
+2013-08-12 12:51:58.045 INFO  [] View ============== Sync all Calendars at Mon Aug 12 12:51:58 IST 2013 ==============
+2013-08-12 12:51:58.046 INFO  [] View ============== [ imaginea.com -> pramati.com for OHare-Hyd-2nd_Floor-Meeting-12-LCD-WB] ==============
+2013-08-12 12:51:58.046 INFO  [] View ============== OHare-Hyd-2nd_Floor-Meeting-12-LCD-WB ==============
+2013-08-12 12:51:58.046 INFO  [] View -----------------------------------------------
+2013-08-12 12:51:58.046 INFO  [] View ID: bs27t85evodclgq581h232snno_20130809T043000Z
+2013-08-12 12:51:58.046 INFO  [] View Description: null
+2013-08-12 12:51:58.046 INFO  [] View Summary: null
+2013-08-12 12:51:58.047 INFO  [] View CalUID: null
+2013-08-12 12:51:58.047 INFO  [] View Location: null
+2013-08-12 12:51:58.047 INFO  [] View Status: cancelled
+2013-08-12 12:51:58.047 INFO  [] View Attendees: null
+2013-08-12 12:51:58.047 INFO  [] View Creator: null
+2013-08-12 12:51:58.047 INFO  [] View Created On: null
+2013-08-12 12:51:58.047 INFO  [] View Organizer: null
+2013-08-12 12:51:58.047 INFO  [] View Recurrence: null
+2013-08-12 12:51:58.047 INFO  [] View Start Time: null
+2013-08-12 12:51:58.048 INFO  [] View End Time: null
+2013-08-12 12:51:58.048 INFO  [] View Event not added.....
